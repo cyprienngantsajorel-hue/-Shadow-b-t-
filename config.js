@@ -1,0 +1,6 @@
+module.exports = {
+    botName: "🌑🎭 Shadow bøt 🥷🌹🪽",
+    ownerName: "Joerl Art Tech",
+    prefix: ".",
+    mode: "public"
+}
