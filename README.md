@@ -3,7 +3,7 @@ ici pour te connecter](https://dashboard.render.com/login) |
 ```
 ✅ Gratuit
 ✅ 512MB RAM
-✅ Compatible AIGER-XMD
+✅ Compatible shadow bøt
 ✅ SSL automatique
 ```
 
